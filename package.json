@@ -1,0 +1,15 @@
+{
+  "name": "memslab",
+  "version": "1.0.0",
+  "description": "A JavaScript library that optimizes memory management using the slab allocation principle, reducing fragmentation and operating without triggering garbage collection",
+  "main": "./dist/index.js",
+  "type": "module",
+  "scripts": {},
+  "author": "Jacob Bogers <jkfbogers@gmail.com",
+  "license": "SEE LICENSE IN file './LICENSE'",
+  "devDependencies": {
+    "@biomejs/biome": "1.9.3",
+    "@types/node": "^22.7.5",
+    "typescript": "^5.6.3"
+  }
+}
